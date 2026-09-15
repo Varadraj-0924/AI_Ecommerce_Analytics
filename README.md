@@ -1,5 +1,7 @@
 \# AI-Driven E-Commerce Sales, Customer \& Business Analytics
 
+!\[AI E-Commerce Analytics Dashboard](screenshots/dashboard\_overview.png)
+
 
 
 An end-to-end Data Analytics and Machine Learning project built using Python, PostgreSQL, Power BI and Scikit-learn to analyze e-commerce sales, customer behavior, operational performance and future revenue trends.
