@@ -1,6 +1,6 @@
-\# AI-Driven E-Commerce Sales, Customer \& Business Analytics
+# AI-Driven E-Commerce Sales, Customer \& Business Analytics
 
-!\[AI E-Commerce Analytics Dashboard](screenshots/dashboard\_overview.png)
+![AI E-Commerce Analytics Dashboard](screenshots/dashboard\_overview.png)
 
 
 
